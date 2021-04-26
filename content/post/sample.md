@@ -2,7 +2,7 @@
 author = "syui"
 comments = false
 date = "2017-01-01"
-draft = false
+draft = true
 image = ""
 menu = ""
 share = false

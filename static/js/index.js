@@ -54,3 +54,7 @@
 
     };
 })(jQuery);
+
+function getMCPassword() {
+    return "curiousity";
+}
